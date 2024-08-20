@@ -24,3 +24,4 @@ Você pode instalar as dependências usando o comando:
 
 ```bash
 pip install -r requirements.txt
+# projeto_decode_morse
